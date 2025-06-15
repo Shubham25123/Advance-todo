@@ -84,4 +84,19 @@ Recharts,
 npm install recharts
 ```
 
+ScreenShots:-
+
+![Screenshot (1244)](https://github.com/user-attachments/assets/7be737d1-7bbd-4dcf-ad44-7b50d1a177e2)
+
+
+![Screenshot 2025-06-15 224929](https://github.com/user-attachments/assets/c55692c6-4839-4391-a33d-d3d1119b4f07)
+
+
+LocalStorage:
+
+
+![Screenshot 2025-06-15 225211](https://github.com/user-attachments/assets/bf9d9464-61fc-42d7-bd04-d4e38ff24821)
+
+![Screenshot 2025-06-15 225239](https://github.com/user-attachments/assets/11dae602-3df5-4b96-a692-f6b563b9bc65)
+
 
