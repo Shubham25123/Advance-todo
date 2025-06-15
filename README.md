@@ -2,7 +2,7 @@
 # 🚀 Smart To-Do App
 
 A feature-rich, dynamic, and visually appealing To-Do App built with React, Redux, and Vite. This app is designed to not only manage tasks efficiently but also provide task analytics, real-time weather insights for outdoor activities, and voice-based task input to enhance user experience.
-link- http://todo-app-woad-xi-33.vercel.app
+link-[ http://todo-app-woad-xi-33.vercel.app](https://advance-todo-kwf2.vercel.app/)
 ## 🌟 Features
 
 - Task Management: Add, categorize, prioritize, and delete tasks effortlessly.
