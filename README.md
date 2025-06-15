@@ -27,7 +27,7 @@ Follow these simple steps to set up and run the project on your local machine:
  
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/SURANJAN951/todo-app.git
+git clone https://github.com/Shubham25123/Advance-todo.git
 cd todo-app
 ```
 2️⃣ Install Dependencies
